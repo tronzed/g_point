@@ -1,0 +1,79 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+FullName:Lato Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\work 1\website html\7 G_point\Font\Lato-Light.ttf
+DataFormat:sfntData
+FileLength:110544
+FileModTime:1292885816
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\work 1\website html\7 G_point\Font\Lato-Regular.ttf
+DataFormat:sfntData
+FileLength:120196
+FileModTime:1390863464
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat-Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\work 1\website html\7 G_point\Font\Montserrat-Bold.ttf
+DataFormat:sfntData
+FileLength:29560
+FileModTime:1390863284
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat-Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\work 1\website html\7 G_point\Font\Montserrat-Regular.ttf
+DataFormat:sfntData
+FileLength:29016
+FileModTime:1390863284
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
